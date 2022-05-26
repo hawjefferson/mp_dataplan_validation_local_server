@@ -1,5 +1,7 @@
 # mp-validation-server
 
+This github repo was created by my colleague [Cooper Reid](creid@mparticle.com).
+
 ## Setup and Install
 _note: there is no need to install the mp-cli manually and configure, this abstracts all of that_
 1. Install dependencies `npm i`
